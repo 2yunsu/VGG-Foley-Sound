@@ -12,4 +12,4 @@ This repository using LLaVA from [transformers](https://huggingface.co/)
 To install this package, use pip:
 
 ```bash
-pip install requirments.txt
+pip install -r requirments.txt
